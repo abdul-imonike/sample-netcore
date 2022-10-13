@@ -5,7 +5,7 @@
   },
   "build": {
     "path": "ValueApi/",
-    "outputPath": "ValueApi/bin/Release/netcoreapp2.0"
+    "outputPath": "ValueApi/bin/Release/netcoreapp6.0"
   },
   "test": {
     "enabled": true,
